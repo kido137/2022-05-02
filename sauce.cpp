@@ -22,6 +22,8 @@ int main()
 
 	//cout << MyHp % 0.1f << endl;
 
+	cout << (10 + (2 * 5)) << endl;
+
 	return 0;
 
 }
