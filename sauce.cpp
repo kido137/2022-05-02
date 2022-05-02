@@ -13,7 +13,7 @@ int main()
 
 	cout << MyGold % 2 << endl;
 
-	float MyHp = 12.5;
+	float MyHp = 12.5f;
 
 	cout << MyHp + 7.5 << endl;
 	cout << MyHp - 7.5 << endl;
